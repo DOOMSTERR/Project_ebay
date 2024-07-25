@@ -87,6 +87,9 @@ Alternatively, you can run the test classes directly from your IDE.
 - The `pom.xml` file contains all necessary dependencies. Ensure they are correctly downloaded by Maven.
 
 ---
+(Below is a link to screen recording of the scenarios)
 
 Feel free to reach out if you have any questions or need further clarification.
+
+### Link - https://drive.google.com/file/d/1knOTN9FDRJ7JPBiMqnsrxJFXrBzpqTm3/view?usp=sharing
 
